@@ -1,0 +1,113 @@
+
+
+body {
+	font-family: arial;
+	margin: 5%;
+}
+.headline {
+	padding: 10px;
+}
+h1 {
+display: table;
+margin: 0 auto;
+font-family: "Host Grotesk", sans-serif;
+font-weight: 800;
+font-size: 40px;
+color: orange;
+}
+
+.protest-item {
+	display: flex;
+	justify-content: center;
+	align-items: center;}
+
+.info-box {
+	width: 400px;
+	height: auto;
+	float: left;
+	padding: 40px;
+	text-align: center;
+	color: orange;
+	display: inline-block;
+}
+	h2 {
+	color:orange;
+	}
+	p {
+	color:black;
+	}
+.image-box {
+	width: 400px;
+	float: right;
+	padding: 40px;
+	display: inline-block;
+}
+
+
+.info-box2 {
+	width: 400px;
+	height: auto;
+	float: left;
+	padding: 40px;
+	text-align: center;
+	color: orange;
+}
+.image-box2 {
+	width: 400px;
+	float: right;
+	padding: 40px;
+	display: inline-block
+}
+
+img {
+	width:100%;
+	height:auto;
+}
+.info-box3 {
+	width: 400px;
+	height: auto;
+	float: left;
+	padding: 40px;
+	text-align: center;
+	color: orange;
+}
+.image-box3 {
+	width: 400px;
+	float: right;
+	padding: 40px;
+	display: inline-block
+	
+}
+img {
+	width: 100%;
+	height: auto;
+}
+.info-box4 {
+	width: 400px;
+	height: auto;
+	float: left;
+	padding: 40px;
+	text-align: center;
+	color: orange;
+}
+.image-box4 {
+	width: 400px;
+	float: right;
+	padding: 40px;
+	display: inline-block;
+}
+img {
+	width: 100%;
+	height: auto;
+.container {
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
